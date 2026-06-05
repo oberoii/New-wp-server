@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "WhatsApp message tool with pairing code and QR code support",
   "main": "server.js",
+  "engines": {
+    "node": "20.x"
+  },
   "type": "module",
   "scripts": {
     "start": "node server.js",
